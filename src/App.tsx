@@ -1,9 +1,10 @@
-import { Lesson } from './components/Lesson';
+import { Form } from "./components/Lesson";
+
 
 function App() {
   return (
     <div className="App">
-      <Lesson />
+      <Form />
     </div>
   );
 }
